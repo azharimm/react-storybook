@@ -6,7 +6,7 @@ export default {
     component: Button,
     args: {
         children: 'Button'
-    }
+    },
 }
 
 export const Primary = () => <Button variant='primary'>Primary</Button>
